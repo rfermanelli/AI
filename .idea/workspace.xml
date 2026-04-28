@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65b7cb90-9805-471a-8625-f1df6705dee1" name="Changes" comment="....">
+    <list default="true" id="65b7cb90-9805-471a-8625-f1df6705dee1" name="Changes" comment=".....">
+      <change afterPath="$PROJECT_DIR$/ollama_http_request/ollama_chat_bis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ollama/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ollama_http_request/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ollama/chat_ollama.py" beforeDir="false" afterPath="$PROJECT_DIR$/ollama_http_request/ollama_chat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ollama/ollama_py.py" beforeDir="false" afterPath="$PROJECT_DIR$/ollama_http_request/ollama_prompt.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +48,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.chat_ollama.executor": "Run",
     "Python.e.executor": "Run",
+    "Python.ollama_chat_bis.executor": "Run",
     "Python.ollama_py.executor": "Run",
     "Python.tokenizer.executor": "Run",
     "Python.transformer.executor": "Run",
@@ -106,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777387791898</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=".....">
+      <option name="closed" value="true" />
+      <created>1777388615706</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1777388615706</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,7 +131,8 @@
     <MESSAGE value="." />
     <MESSAGE value="..." />
     <MESSAGE value="...." />
-    <option name="LAST_COMMIT_MESSAGE" value="...." />
+    <MESSAGE value="....." />
+    <option name="LAST_COMMIT_MESSAGE" value="....." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
